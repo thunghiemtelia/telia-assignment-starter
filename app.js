@@ -13,7 +13,7 @@ app.set("view engine", "ejs");
 
 app.use(express.static("public"));
 mongoose.connect(
-  "mongodb://telia:<password>@ds125372.mlab.com:25372/telia-assignment",
+  "mongodb://EkkuTelia:Ekku***@ds125372.mlab.com:25372/telia-assignment",
   { useMongoClient: true }
 );
 

@@ -1,15 +1,10 @@
 ## Install project dependencies
 ```
-$ yarn
+$ npm install
 ```
-
-Run App:
+## Develop the project
 ```
-$ yarn start
-```
-
-Develop App:
-```
-$ yarn build and yarn dev
+$ npm run build
+$ yarn dev
 ```
 
